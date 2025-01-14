@@ -1,0 +1,103 @@
+@charset "utf-8";
+
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #339CFF
+}
+
+#Glavni{
+	width: 1050px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	background-color: #FFF;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+	height: auto;
+}
+
+#Header{
+	background-color: #FFF;
+	padding: 10px;
+}
+
+#Navigacija{
+	background-color: #3368FF;
+	height: 39px;
+	display: block;
+}
+
+#Navigacija ul {
+	list-style-type: none;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+#Navigacija ul li {
+	float: left;
+}
+#Navigacija ul li a {
+	height: 20px;
+	padding-top: 7px;
+	padding-right: 10px;
+	padding-bottom: 7px;
+	padding-left: 10px;
+	display: block;
+}
+
+#Main {
+	background-color: #FFF;
+	float: center;
+	width: 900px;
+	font-size: 18px;
+	font-weight: bold;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 45px;
+}
+
+#Main div:first-of-type{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	top: 350px;
+	right: 400px;
+	padding: 20px;
+}
+
+#Footer{
+	
+	background-color: #3368FF;
+	position: relative;
+	height: 20px;
+	clear: both;
+	padding: 20px;
+	text-align: right;
+	
+}
+
+table{
+	text-align: center;
+}
+
+#Registracija {
+	background-color: #FFF;
+	width: 1000px;
+	font-size: 18px;
+	font-weight: bold;
+	height: auto;
+	padding: 20px;
+}
+
+
